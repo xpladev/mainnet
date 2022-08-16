@@ -1,0 +1,50 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "commission": {
+          "max_change_rate": "10000000000000000",
+          "max_rate": "200000000000000000",
+          "rate": "100000000000000000"
+        },
+        "delegator_address": "xpla1hn6tn3n5kks0j5vf349m8qq3t67hwerj6vg7ef",
+        "description": {
+          "details": "",
+          "identity": "D9D0E70D9D936887",
+          "moniker": "COM2VERSE",
+          "security_contact": "",
+          "website": ""
+        },
+        "min_self_delegation": "1",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "72TE1zhTXz79LNqiLF73lNUnub1b8rVSund0jtBVpiY="
+        },
+        "validator_address": "xplavaloper1hn6tn3n5kks0j5vf349m8qq3t67hwerjt3tyk5",
+        "value": {
+          "amount": "500000000000000000000000",
+          "denom": "axpla"
+        }
+      }
+    ],
+    "memo": "44e0345a492a98371c0d592582ee2f9108d6b6f1@172.26.1.11:26656",
+    "timeout_height": 0
+  },
+  "auth_info": {
+    "signer_infos": [
+
+    ],
+    "fee": {
+      "amount": [
+        
+      ],
+      "gas_limit": "200000",
+      "granter": "",
+      "payer": ""
+    }
+  },
+  "signatures": [
+    
+  ]
+}
