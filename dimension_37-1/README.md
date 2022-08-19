@@ -17,6 +17,9 @@ $ git clone https://github.com/xpladev/xpla
 $ git checkout v0.1.0
 $ make install
 
+$ xplad version
+v0.1.0
+
 $ xplad init [moniker] --chain-id dimension_37-1
 $ wget https://raw.githubusercontent.com/xpladev/mainnet/main/dimension_37-1/genesis.json
 $ cp genesis.json ~/.xpla/config/genesis.json
