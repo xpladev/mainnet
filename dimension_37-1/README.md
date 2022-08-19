@@ -2,7 +2,7 @@
 
 [xpla@v0.1.0](https://github.com/xpladev/xpla/releases/tag/v0.1.0) should be used to run the dimension_37-1 mainnet.
 
-- The genesis event for dimension_37-1 mainnet will occur **TO BE DETERMINED**
+- The genesis event for dimension_37-1 mainnet will occur **2022-08-19T09:30:00Z**
 
 ## Prerequisites
 * Go v1.18+ or higher
