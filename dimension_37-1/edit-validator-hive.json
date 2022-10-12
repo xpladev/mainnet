@@ -1,0 +1,38 @@
+{
+    "body": {
+        "messages": [
+            {
+                "@type": "/cosmos.staking.v1beta1.MsgEditValidator",
+                "description": {
+                    "moniker": "Hive Platform Lab",
+                    "identity": "53814B2D565BC51F",
+                    "website": "http://platformlab.withhive.com/",
+                    "security_contact": "ps-blockchain@com2us.com",
+                    "details": "Hive Platform Lab offers stable and easy-to-apply blockchain solutions to devlopers to help them access the Web3 with ease."
+                },
+                "validator_address": "xplavaloper1fvv6xx4ghnrkqnmurr6dpjqmcxt0lf3cf4eary",
+                "commission_rate": null,
+                "min_self_delegation": null
+            }
+        ],
+        "memo": "",
+        "timeout_height": "0",
+        "extension_options": [],
+        "non_critical_extension_options": []
+    },
+    "auth_info": {
+        "signer_infos": [],
+        "fee": {
+            "amount": [
+                {
+                    "denom": "axpla",
+                    "amount": "170000000000000000"
+                }
+            ],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+        }
+    },
+    "signatures": []
+}
