@@ -1,0 +1,27 @@
+{
+  "name": "CTX Token",
+  "symbol": "CTXT",
+  "decimals": 6,
+  "initial_balances": [
+    {
+      "address": "xpla1j0rc0uraryz205ulycxv7t8a05q35rvpncz3jw",
+      "amount": "25000000000000"
+    },
+    {
+        "address": "xpla10ksn9528f82uwnmz3sgr4n42l0nucmzntjrg00",
+        "amount": "10000000000000"
+    },
+    {
+        "address": "xpla1g8hkzkgfa3uq0cg9d6h99jk5nlg92lwx2jme2l",
+        "amount": "15000000000000"
+    },
+    {
+        "address": "xpla1vnzz7xyqjaayljtdrug845tdlw33k2pnh47k4e",
+        "amount": "2500000000000"
+    }
+  ],
+  "mint": {
+    "cap": "800000000000000",
+    "minter": "xpla12tks3frt83h4vdyh6x6xv7tyu0tx3czjzgyvrp"
+  }
+}
